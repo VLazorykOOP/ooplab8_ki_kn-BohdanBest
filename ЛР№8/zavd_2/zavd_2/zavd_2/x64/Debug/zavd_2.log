@@ -1,0 +1,4 @@
+﻿  zavd_2.cpp
+C:\Users\Yana\Desktop\Zavdania\ЛР№8\zavd_2\zavd_2\zavd_2\zavd_2.cpp(53,45): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Yana\Desktop\Zavdania\ЛР№8\zavd_2\zavd_2\zavd_2\zavd_2.cpp(54,45): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  zavd_2.vcxproj -> C:\Users\Yana\Desktop\Zavdania\ЛР№8\zavd_2\zavd_2\x64\Debug\zavd_2.exe
